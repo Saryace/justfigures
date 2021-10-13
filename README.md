@@ -14,7 +14,7 @@
 [Code here](https://github.com/Saryace/justfigures/blob/master/03_historical.R)
 
 ## Plot 4
-![Plot 4](https://github.com/Saryace/justfigures/blob/master/plots/plot4.png)
+![Plot 4](https://github.com/Saryace/justfigures/blob/master/plots/plot4.gif)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/04_magical.R)
 
@@ -34,7 +34,7 @@
 [Code here](https://github.com/Saryace/justfigures/blob/master/07_physical.R)
 
 ## Plot 8
-![Plot 8](https://github.com/Saryace/justfigures/blob/master/plots/plot8.png)
+![Plot 8](https://github.com/Saryace/justfigures/blob/master/plots/plot8.gif)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/08_animals.R)
 
@@ -57,5 +57,45 @@
 ![Plot 12](https://github.com/Saryace/justfigures/blob/master/plots/plot12.png)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/12_strips.R)
+
+## Plot 13
+![Plot 13](https://github.com/Saryace/justfigures/blob/master/plots/plot13.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/13_correlation.R)
+
+## Plot 14
+![Plot 14](https://github.com/Saryace/justfigures/blob/master/plots/plot14.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/14_space.R)
+
+## Plot 15
+![Plot 15](https://github.com/Saryace/justfigures/blob/master/plots/plot15.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/15_multivariate.R)
+
+## Plot 16
+![Plot 16](https://github.com/Saryace/justfigures/blob/master/plots/plot16.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/16_trees.R)
+
+## Plot 17
+![Plot 17](https://github.com/Saryace/justfigures/blob/master/plots/plot17.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/17_popculture.R)
+
+## Plot 18
+![Plot 18](https://github.com/Saryace/justfigures/blob/master/plots/plot18.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/18_connections.R)
+
+## Plot 19
+![Plot 19](https://github.com/Saryace/justfigures/blob/master/plots/plot19.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/19_globalchange.R)
+
+## Plot 20
+![Plot 20](https://github.com/Saryace/justfigures/blob/master/plots/plot20.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/20_upwards.R)
 
 
