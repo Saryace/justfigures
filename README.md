@@ -1,3 +1,5 @@
+## 30DayChartChallenge 2021 by [Cédric Scherer](cedricscherer.com) and [Dominic Royé]dominicroye.github.io
+
 ## Plot 1
 ![Plot1](https://github.com/Saryace/justfigures/blob/master/plots/plot1.png)
 
