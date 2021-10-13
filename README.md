@@ -98,4 +98,19 @@
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/20_upwards.R)
 
+## Plot 21
+![Plot 21](https://github.com/Saryace/justfigures/blob/master/plots/plot21.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/21_downwards.R)
+
+## Plot 22
+![Plot 22](https://github.com/Saryace/justfigures/blob/master/plots/plot22.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/22_animation.R)
+
+## Plot 23
+![Plot 23](https://github.com/Saryace/justfigures/blob/master/plots/plot23.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/23_tiles.R)
+
 
