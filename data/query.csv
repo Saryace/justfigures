@@ -1,0 +1,34 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-12-25T14:22:27.010Z,-43.4064,-73.9413,38,7.6,mww,,29,0.355,0.79,us,us10007mn3,2021-01-29T00:57:34.710Z,"41km SW of Puerto Quellon, Chile",earthquake,5.4,1.9,,,reviewed,us,us
+2015-09-16T23:18:41.850Z,-31.5622,-71.4262,28.41,7,mww,,13,0.903,0.93,us,us20003k7w,2021-04-07T02:41:09.403Z,"25km WNW of Illapel, Chile",earthquake,4.3,3,,,reviewed,us,us
+2015-09-16T22:54:32.860Z,-31.5729,-71.6744,22.44,8.3,mww,,19,0.684,1.02,us,us20003k7a,2021-04-26T03:56:30.612Z,"48km W of Illapel, Chile",earthquake,4.7,3.2,,,reviewed,us,us
+2014-04-03T02:43:13.110Z,-20.5709,-70.4931,22.4,7.7,mww,,44,1.029,0.82,us,usc000p27i,2021-04-19T21:42:05.699Z,"53km SW of Iquique, Chile",earthquake,,3.4,,,reviewed,us,us
+2014-04-01T23:46:47.260Z,-19.6097,-70.7691,25,8.2,mww,,23,0.609,0.66,us,usc000nzvd,2021-04-19T21:06:47.072Z,"94km NW of Iquique, Chile",earthquake,,1.8,,,reviewed,us,us
+2013-09-25T16:42:43.170Z,-15.8385,-74.5112,40,7.1,mww,,17,4.446,0.9,us,usb000jzma,2020-07-10T18:18:20.604Z,"46km SSE of Acari, Peru",earthquake,,1.8,,,reviewed,us,us
+2012-03-25T22:37:06.000Z,-35.2,-72.217,40.7,7.1,mww,553,15.2,,,us,usp000jgsw,2020-09-21T18:02:10.760Z,"Maule, Chile",earthquake,,,,,reviewed,guc,us
+2011-01-02T20:20:17.780Z,-38.355,-73.326,24,7.2,mww,397,30.1,,1.1,us,usp000hsfq,2021-03-08T21:44:55.940Z,"Araucania, Chile",earthquake,,,,,reviewed,us,us
+2010-03-11T14:55:27.510Z,-34.326,-71.799,18,7,mwc,403,17.1,,1.02,us,usp000h94v,2021-03-08T21:48:47.029Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-02-27T08:01:23.010Z,-37.773,-75.048,35,7.4,mwc,409,17.6,,1.06,us,usp000h7sq,2020-09-21T16:33:51.303Z,"off the coast of Bio-Bio, Chile",earthquake,,,,,reviewed,us,gcmt
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2021-02-24T19:26:54.976Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official
+2007-11-14T15:40:50.530Z,-22.247,-69.89,40,7.7,mwc,610,22.4,,1.11,us,usp000fshy,2020-07-08T02:10:11.158Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,gcmt
+2005-06-13T22:44:33.900Z,-19.987,-69.197,115.6,7.8,mwb,714,16.1,,1.01,us,usp000dsw1,2021-01-05T03:16:54.394Z,"Tarapaca, Chile",earthquake,,,,,reviewed,us,us
+2001-07-07T09:38:43.520Z,-17.543,-72.077,33,7.6,mwc,398,,,1.15,us,usp000aj40,2020-09-18T18:27:20.842Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,hrv
+2001-06-23T20:33:14.130Z,-16.265,-73.641,33,8.4,mww,518,,,1.05,official,official20010623203314130_33,2020-08-14T20:50:43.254Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,official
+2000-05-12T18:43:18.120Z,-23.548,-66.452,225,7.2,mwc,,,,0.86,us,usp0009suu,2020-09-15T21:22:20.596Z,"Jujuy, Argentina",earthquake,,4.6,,,reviewed,us,hrv
+1998-01-30T12:16:08.690Z,-23.913,-70.207,42,7.1,mwc,,,,1.11,us,usp0008f7c,2020-09-15T19:59:45.384Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1997-10-15T01:03:33.460Z,-30.933,-71.22,58,7.1,mwc,,,,1.05,us,usp000892b,2020-09-15T19:47:58.946Z,"Coquimbo, Chile",earthquake,,,,,reviewed,us,hrv
+1997-01-23T02:15:22.970Z,-21.999,-65.719,276.2,7.1,mwc,,,,0.94,us,usp0007w7v,2016-11-10T00:24:27.843Z,"Potosi, Bolivia",earthquake,,,,,reviewed,us,hrv
+1995-07-30T05:11:23.630Z,-23.34,-70.294,45.6,8,mw,,,,1.1,us,usp000714t,2020-08-14T11:41:21.455Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1993-05-24T23:51:28.240Z,-22.671,-66.543,221,7,mwb,,,,0.8,us,usp0005te6,2020-09-15T16:23:43.863Z,"Jujuy, Argentina",earthquake,,,,,reviewed,us,us
+1988-04-12T23:19:55.570Z,-17.192,-72.305,33.1,7.1,mw,,,,1.2,us,usp0003ezg,2020-08-28T21:59:07.069Z,"near the coast of southern Peru",earthquake,,,,,reviewed,us,hrv
+1988-02-05T14:01:02.750Z,-24.753,-70.433,36.9,7.2,mw,,,,1.1,us,usp0003crv,2020-08-28T21:51:08.191Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1988-01-19T07:30:31.860Z,-24.71,-70.568,33,7,mw,,,,1.3,us,usp0003c61,2020-08-28T21:48:10.522Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,nc
+1987-08-08T15:48:56.750Z,-19.022,-69.991,69.7,7.2,mw,,,,1.1,us,usp00037c3,2020-08-28T21:26:58.659Z,"Tarapaca, Chile",earthquake,,,,,reviewed,us,hrv
+1987-04-01T01:48:08.520Z,-22.767,-66.205,248.7,7,mw,,,,1.1,us,usp00033th,2016-11-10T00:30:20.489Z,"Jujuy, Argentina",earthquake,,,,,reviewed,us,hrv
+1987-03-05T10:55:12.350Z,-24.495,-70.701,34.8,7,mw,,,,1.2,us,usp0003308,2020-08-28T21:04:17.655Z,"near the coast of Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1987-03-05T09:17:05.280Z,-24.388,-70.161,62.3,7.6,mw,,,,1.2,us,usp0003304,2020-08-28T21:03:29.416Z,"Antofagasta, Chile",earthquake,,,,,reviewed,us,hrv
+1985-04-09T01:56:59.480Z,-34.131,-71.618,37.8,7.2,mw,,,,1.1,us,usp0002dm4,2020-08-27T00:10:35.150Z,"Libertador General Bernardo O'Higgins, Chile",earthquake,,,,,reviewed,us,nc
+1985-03-04T00:32:21.870Z,-33.207,-71.663,33,7.4,mw,,,,1,us,usp0002cd3,2020-08-27T00:01:09.364Z,"Valparaiso, Chile",earthquake,,,,,reviewed,us,hrv
+1985-03-03T22:47:07.280Z,-33.135,-71.871,33,8,mw,,,,1,us,usp0002ccz,2020-08-14T05:49:58.872Z,"offshore Valparaiso, Chile",earthquake,,,,,reviewed,us,hrv
+1983-10-04T18:52:13.300Z,-26.535,-70.563,14.8,7.4,mw,,,,1.2,us,usp0001ytj,2020-08-26T22:57:20.731Z,"Atacama, Chile",earthquake,,3.5,,,reviewed,us,nc
+1981-10-16T03:25:42.220Z,-33.134,-73.074,33,7.2,ms,,,,0.8,us,usp0001gg1,2020-08-26T21:44:28.768Z,"off the coast of Valparaiso, Chile",earthquake,,,,16,reviewed,us,us
