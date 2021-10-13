@@ -35,7 +35,8 @@ autoplot(fcast) +
     angle = 90,
     vjust = 0.5,
     hjust = 1
-  )) +
+  ),
+  plot.background = element_rect(fill="white")) +
   theme(plot.margin = unit(c(2.5, 1, 2.5, 1), "cm"))
 
 
