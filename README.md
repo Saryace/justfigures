@@ -104,7 +104,7 @@
 [Code here](https://github.com/Saryace/justfigures/blob/master/21_downwards.R)
 
 ## Plot 22
-![Plot 22](https://github.com/Saryace/justfigures/blob/master/plots/plot22.png)
+![Plot 22](https://github.com/Saryace/justfigures/blob/master/plots/plot22.gif)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/22_animation.R)
 
@@ -112,5 +112,40 @@
 ![Plot 23](https://github.com/Saryace/justfigures/blob/master/plots/plot23.png)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/23_tiles.R)
+
+## Plot 24
+![Plot 24](https://github.com/Saryace/justfigures/blob/master/plots/plot24.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/24_monochrome.R)
+
+## Plot 25
+![Plot 25](https://github.com/Saryace/justfigures/blob/master/plots/plot25.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/25_demographic.R)
+
+## Plot 26
+![Plot 26](https://github.com/Saryace/justfigures/blob/master/plots/plot26.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/26_trend.R)
+
+## Plot 27
+![Plot 27](https://github.com/Saryace/justfigures/blob/master/plots/plot27.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/27_educational.R)
+
+## Plot 28
+![Plot 28](https://github.com/Saryace/justfigures/blob/master/plots/plot28.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/28_future.R)
+
+## Plot 29
+![Plot 29](https://github.com/Saryace/justfigures/blob/master/plots/plot29.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/29_deviations.R)
+
+## Plot 30
+![Plot 30](https://github.com/Saryace/justfigures/blob/master/plots/plot30.png)
+
+[Code here](https://github.com/Saryace/justfigures/blob/master/30_3d.R)
 
 
