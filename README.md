@@ -31,7 +31,7 @@
 [Code here](https://github.com/Saryace/justfigures/blob/master/05_slope.R)
 
 ## Plot 6 - experimental
-### Using the AgriDAT R package
+### Using the AgriTutorial R package
 ![Plot 6](https://github.com/Saryace/justfigures/blob/master/plots/plot6.png)
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/06_experimental.R)
@@ -72,7 +72,7 @@
 
 [Code here](https://github.com/Saryace/justfigures/blob/master/12_strips.R)
 
-## Plot 13 - correlationç
+## Plot 13 - correlation
 ### Using the corrr R package
 ![Plot 13](https://github.com/Saryace/justfigures/blob/master/plots/plot13.png)
 
